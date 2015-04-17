@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property (nonatomic,strong)UILabel *lbl;
+@property (nonatomic,strong)UIButton *btn;
 @end
 
 @implementation ViewController
