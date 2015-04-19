@@ -25,7 +25,7 @@
     // Dispose of any resources that can be recreated.
 }
 - (void)add{
-    
+    CGFloat a = 2;
 
 }
 @end
