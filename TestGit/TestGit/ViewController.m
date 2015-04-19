@@ -26,6 +26,7 @@
 }
 - (void)add{
     CGFloat a = 2;
+    CGFloat b = 3;
 
 }
 @end
